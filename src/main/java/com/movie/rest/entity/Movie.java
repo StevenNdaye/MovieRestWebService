@@ -51,4 +51,7 @@ public class Movie {
         this.review = review;
         this.thumb = thumb;
     }
+
+    public Movie() {
+    }
 }
