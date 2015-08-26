@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/*.jar com.movie.rest
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/*.jar
